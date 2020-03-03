@@ -1,20 +1,9 @@
-# Django Project Boilerplate
+# Django Ecommerce
 
-This repository is a boilerplate Django project for quickly getting started.
+This is an ecommerce website built with Django. The website displays products. Users can add and remove products to/from their cart while also specifying the quantity of each item.
 
-[![alt text](https://github.com/justdjango/django_project_boilerplate/blob/master/thumbnail.png "Logo")](https://www.youtube.com/watch?v=GEogao-tUec)
+[![alt text](https://github.com/justdjango/django-ecommerce/blob/master/thumbnail.png "Logo")](https://youtu.be/z4USlooVXG0)
 
-## Getting started
+[Watch the tutorial series here](https://youtu.be/z4USlooVXG0)
 
-Steps:
-
-1. Clone/pull/download this repository
-2. Create a virtualenv with `virtualenv env` and install dependencies with `pip install -r requirements.txt`
-3. Configure your .env variables
-4. Rename your project with `python manage.py rename <yourprojectname> <newprojectname>`
-
-This project includes:
-
-1. Settings modules for deploying with Azure
-2. Django commands for renaming your project and creating a superuser
-3. A cli tool for setting environment variables for deployment
+[Become a better Django developer](https://www.justdjango.com)
